@@ -10,7 +10,7 @@
 Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Science student with a strong foundation in programming languages and machine learning technologies. Passionate about solving real-world problems through code and AI-driven systems. Eager to contribute to impactful projects using emerging technologies.
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashk9293&label=Profile%20views&color=0e75b6&style=flat" alt="yashk9293" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-ksr&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-ksr" /> </p>
 
 <p align="left">
   <a href="https://github.com/mohd-ksr?tab=followers">
@@ -75,13 +75,13 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
 
 
 
-| <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashk9293&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's github stats" /></a> | <a href="https://github.com/yashk9293/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashk9293&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mohd-ksr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-ksr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kausar's github stats" /></a> | <a href="https://github.com/mohd-ksr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ksr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-ksr&theme=tokyonight" width="auto" height="auto" />
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashk9293&theme=tokyonight" width="auto" height="auto" /> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-ksr&theme=tokyonight" width="auto" height="auto" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-ksr&utcOffset=+8.0&theme=tokyonight" width="auto" height="auto" />
 </div>
 
