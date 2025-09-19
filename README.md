@@ -29,10 +29,6 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
     <img alt="total stars" title="Total stars on GitHub"
          src="https://img.shields.io/github/stars/mohd-ksr?style=for-the-badge&label=Stars&logo=github&color=55960c&labelColor=488207" />
   </a>
-
-  <a href="https://github.com/mohd-ksr">
-    <img src="https://streak-stats.demolab.com?user=mohd-ksr&theme=tokyonight" height="180" alt="GitHub Streak" />
-  </a>
 </p>
 
 
