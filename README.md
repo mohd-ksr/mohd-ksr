@@ -11,13 +11,30 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-ksr&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-ksr" /> </p>
-
+<!---
 <p align="left">
   <a href="https://github.com/mohd-ksr?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mohd-ksr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/mohd-ksr?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mohd-ksr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+--->
+<p align="left">
+  <a href="https://github.com/mohd-ksr?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+         src="https://img.shields.io/github/followers/mohd-ksr?style=for-the-badge&label=Follow&logo=github&color=236ad3&labelColor=1155ba" />
+  </a>
+
+  <a href="https://github.com/mohd-ksr?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub"
+         src="https://img.shields.io/github/stars/mohd-ksr?style=for-the-badge&label=Stars&logo=github&color=55960c&labelColor=488207" />
+  </a>
+
+  <a href="https://github.com/mohd-ksr">
+    <img src="https://streak-stats.demolab.com?user=mohd-ksr&theme=tokyonight" height="180" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
