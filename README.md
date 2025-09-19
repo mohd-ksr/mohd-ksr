@@ -73,7 +73,7 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 
-#### 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 | <a href="https://github.com/mohd-ksr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-ksr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kausar's github stats" /></a> | <a href="https://github.com/mohd-ksr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ksr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
