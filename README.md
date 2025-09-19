@@ -83,9 +83,7 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-ksr&theme=tokyonight" width="auto" height="auto" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-ksr&theme=tokyonight" width="auto" height="auto" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-ksr&utcOffset=+8.0&theme=tokyonight" width="auto" height="auto" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohd-ksr&theme=tokyonight)](https://github.com/mohd-ksr)
-
+<img src="https://streak-stats.demolab.com?user=mohd-ksr&theme=tokyonight" height="180" />
 </div>
 
 <br>
