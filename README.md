@@ -32,7 +32,9 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
 </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🧑‍💻 **Intern at LGSI Bengaluru**.
+
+- 🌱 I’m currently learning **Machine Learning, Django, React**
 
 - 💬 Experties **CP, DSA, Machine Learning**
 
@@ -109,7 +111,7 @@ Hi, I'm Mo Kausar (@mohd-ksr) an Energetic and innovative B.Tech Computer Scienc
 
 - 🧑‍💻 Chapter Lead @**Lovely Professional University**
 
-- 📝 Technical Lead @**GeeksforGeeks Lovely Professional University**
+- 📝 Technical Lead @**LGSI**
 
 - ⚽ Interests - **Books, Esports, Cricket, Songs**
 
